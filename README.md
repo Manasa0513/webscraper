@@ -6,4 +6,5 @@ A simple Python script to scrape latest news headlines from the [Deccan Herald](
 - Prints the headlines in a numbered list
 ## Note:
 - The script can be modified to scrape from other news websites by changing the URL.
+- A text file containing the extracted headlines in a numbered list.
   
